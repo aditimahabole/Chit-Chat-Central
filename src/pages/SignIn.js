@@ -2,7 +2,7 @@ import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faFacebookF, faGoogle } from "@fortawesome/free-brands-svg-icons";
 import { Container, Grid, Row, Col, Panel, Button } from "rsuite";
-import { auth, database } from "../misc/firebase";
+import { auth } from "../misc/firebase";
 import firebase from "firebase/compat/app";
 import { Message, useToaster } from "rsuite";
 import { signInWithPopup } from "firebase/auth";
@@ -16,7 +16,7 @@ const SignIn = () => {
       const { user } = await signInWithPopup(auth, provider);
       console.log('PERSON : \n',user);
       if (user.uid !== null) {
-        await set(ref(db,`/profiles/${user.uid}`),{
+        await set( ref(db,`/profiles/${user.uid}`),{
           name: user.displayName,
           email:user.email,
           createdAt:serverTimestamp(),
