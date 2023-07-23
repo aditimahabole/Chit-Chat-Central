@@ -1,4 +1,4 @@
-# Deployed Link : https://chitchat-daf07.web.app/signin
+# Deployed Link : https://chitchat-daf07.firebaseapp.com/signin
 
 ![image](https://github.com/aditimahabole/chitchat/assets/78752342/a02c63e5-6241-410e-9e57-23b443be829d)
 
