@@ -1,4 +1,11 @@
-# Deployed Link : https://chitchat-daf07.firebaseapp.com/signin
+# Description 
+<p>I am proud to present my web application, Chit Chat Central, a dynamic chat platform developed using React and Firebase. This innovative application offers users the convenience of logging in through Google or Facebook, creating personalized chat rooms for seamless communication. Beyond text-based interaction, Chit Chat Central introduces advanced features such as voice recording, enabling users to express themselves more dynamically. The inclusion of media sharing options, including images and videos, enhances the overall user experience. </p>
+<p>Throughout the development of this project, I immersed myself in the intricacies of React, gaining a deep understanding of its core concepts. Simultaneously, I honed my version control skills using Git and GitHub, ensuring a collaborative and organized development process. Embracing Firebase functionality, I incorporated real-time database capabilities, enabling users to create, explore, and engage in chat rooms effortlessly.
+ </p>
+ <p>
+Chit Chat Central stands as a testament to my proficiency in React, Git/GitHub, and Firebase, showcasing not only my technical acumen but also my dedication to creating feature-rich and user-friendly web applications. </p>
+<em> Deployed Link : https://chitchat-daf07.firebaseapp.com/signin </em>
+<hr>
 
 ![image](https://github.com/aditimahabole/chitchat/assets/78752342/a02c63e5-6241-410e-9e57-23b443be829d)
 
